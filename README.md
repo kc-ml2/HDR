@@ -96,14 +96,12 @@ optional arguments:
 ```
 
 #### Result: to be updated ...
-<!---
 
-        Left image         |       Right Image         |        Output
-![](results/0501_l.png)    | ![](results/0501_r.png)   | ![](results/0501_g.png)
-:-------------------------:|:-------------------------:|:-------------------------:
-![](results/0523_l.png)    | ![](results/0523_r.png)   | ![](results/0523_g.png)
-![](results/0500_l.png)    | ![](results/0500_r.png)   | ![](results/0500_g.png) 
--->
+        Short image        |       Medium Image        |     Long Image            |        Output      
+![](teaser/0057_short.png)    | ![](teaser/0057_medium.png)   | ![](teaser/0057_long.png)   | ![](teaser/hdr_0057.jpg)
+:----------------------------:|:-----------------------------:|:---------------------------:|:-----------------------:
+![](teaser/0197_short.png)    | ![](teaser/0197_medium.png)   | ![](teaser/0197_long.png)   | ![](teaser/hdr_0197.jpg)
+
 
 #### Submit
 ```
