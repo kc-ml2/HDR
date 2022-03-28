@@ -46,6 +46,11 @@ by [Tu Vo](https://tuvovan.github.io)
     ```
     python test.py
     ```
+
+- Submit
+    ```
+    python test_submit.py
+    ```
 ## Usage
 ### Training
 ```
@@ -67,6 +72,8 @@ optional arguments:
 ```
 ### Testing
 - Download the weight [here](https://drive.google.com/file/d/1OinXMk2yqu51uj6EMK0uZWETDr2xWJbF/view?usp=sharing) and put it to the folder ```weights```
+#### See results
+
 ```
 usage: test.py  [-h] [--filter FILTER] 
                 [--decoder_kernel DECODER_KERNEL]
@@ -97,6 +104,29 @@ optional arguments:
 ![](results/0523_l.png)    | ![](results/0523_r.png)   | ![](results/0523_g.png)
 ![](results/0500_l.png)    | ![](results/0500_r.png)   | ![](results/0500_g.png) 
 -->
+
+#### Submit
+```
+usage: test.py  [-h] [--filter FILTER] 
+                [--decoder_kernel DECODER_KERNEL]
+                [--triple_pass_filter TRIPLE_PASS_FILTER]
+                [--kernel KERNEL] [--encoder_kernel ENCODER_KERNEL] 
+                [--attention_filter ATTENTION_FILTER] [--zip_name ZIP_NAME]
+```
+```
+optional arguments:
+  -h, --help            show this help message and exit
+  --test_path TEST_PATH
+  --save_path SAVE_PATH
+  --filter FILTER
+  --gpu GPU
+  --attention_filter ATTENTION_FILTER
+  --kernel KERNEL
+  --encoder_kernel ENCODER_KERNEL
+  --decoder_kernel DECODER_KERNEL
+  --triple_pass_filter TRIPLE_PASS_FILTER
+  --zip_name ZIP_NAME
+```
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/tuvovan/ATTSF/blob/master/LICENSE) file for details
