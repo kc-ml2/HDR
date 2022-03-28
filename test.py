@@ -1,11 +1,10 @@
 import os
 import cv2
-import models_residual
 import argparse
 import numpy as np
 
 from config import *
-from model_ATT import *
+from model import *
 from val import run
 from tqdm import tqdm
 from tensorflow.keras import Model, Input
