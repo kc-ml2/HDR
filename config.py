@@ -32,9 +32,6 @@ path_save_model_all_data = 'weights/att_all.h5'
 path_read_train = 'train_jpg_2/'
 path_read_val_test = 'valid_jpg_2/'
 
-
-os.makedirs(path_write, exist_ok=True)
-os.makedirs(path_write_comp, exist_ok=True)
 #########################################################################
 # NUMBER OF IMAGES IN THE TRAINING, VALIDATION, AND TESTING SETS	    #
 #########################################################################

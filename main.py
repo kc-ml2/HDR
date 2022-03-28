@@ -15,12 +15,9 @@ https://github.com/Abdullah-Abuolaim/defocus-deblurring-dual-pixel
 
 Email: abuolaim@eecs.yorku.ca
 """
-from model_ATT import *
+from model import *
 from config import *
 from data_generator import *
-
-check_dir(path_write)
-
 
 def train(configure):
     if op_phase == 'train':

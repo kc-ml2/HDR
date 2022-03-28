@@ -94,7 +94,7 @@ if __name__ == "__main__":
     model_x = Net(config)
     in_data = Input(batch_shape=(None, 3, 1060, 1900, nb_ch_all))
     model = Model(inputs=in_data, outputs=model_x.main_model(in_data))
-    model.load_weights('weights/best.h5')
+    model.load_weights('weights/atnlc.h5')
 
     run(config, model)
     os.system("cd submit_test/ && zip -r ..//submission_{}.zip *".format(config.zip_name))
