@@ -97,7 +97,7 @@ optional arguments:
 
 #### Result: to be updated ...
 
-        Short image        |       Medium Image        |     Long Image            |        Output      
+        Short image           |       Medium Image            |     Long Image              |        Output      
 ![](teaser/0057_short.png)    | ![](teaser/0057_medium.png)   | ![](teaser/0057_long.png)   | ![](teaser/hdr_0057.jpg)
 :----------------------------:|:-----------------------------:|:---------------------------:|:-----------------------:
 ![](teaser/0197_short.png)    | ![](teaser/0197_medium.png)   | ![](teaser/0197_long.png)   | ![](teaser/hdr_0197.jpg)
