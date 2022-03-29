@@ -153,4 +153,4 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 ```
 -->
 ## Acknowledgments
-<!-- - This work is heavily based on the code from the challenge [host](https://github.com/Abdullah-Abuolaim/defocus-deblurring-dual-pixel) . Thank you for the hard job. -->
+- This work is heavily based on our previous [work](https://github.com/tuvovan/ATTSF) on Defocus Deblurred Challenge 2021.
