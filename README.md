@@ -41,7 +41,7 @@ by [Tu Vo](https://tuvovan.github.io)
     ```
     python main.py
     ```
-
+### Testing
 - Test ATNLC
     ```
     python test.py
@@ -50,6 +50,11 @@ by [Tu Vo](https://tuvovan.github.io)
 - Submit
     ```
     python test_submit.py
+    ```
+
+### Calculate FLOPS and run-time
+    ```
+    python calculate_flops.py
     ```
 ## Usage
 ### Training
