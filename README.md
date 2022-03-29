@@ -100,7 +100,7 @@ optional arguments:
   --triple_pass_filter TRIPLE_PASS_FILTER
 ```
 
-#### Result: to be updated ...
+#### Result:
 
 |       Short image           |       Medium Image            |     Long Image              |        Output          |
 :----------------------------:|:-----------------------------:|:---------------------------:|:-----------------------:
@@ -108,6 +108,7 @@ optional arguments:
 ![](teaser/0197_short.png)    | ![](teaser/0197_medium.png)   | ![](teaser/0197_long.png)   | ![](teaser/hdr_0197.jpg)
 ![](teaser/0000_short.png)    | ![](teaser/0000_medium.png)   | ![](teaser/0000_long.png)   | ![](teaser/hdr_0000.jpg)
 
+- path to the full results: [GGDrive](https://drive.google.com/file/d/1HNE-QP8H09UJd_wEQDQZUDqDN6FlUJS7/view?usp=sharing)
 
 #### Submit
 ```
