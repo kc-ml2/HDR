@@ -110,9 +110,9 @@ optional arguments:
 
 - path to the full results: [GGDrive](https://drive.google.com/file/d/1HNE-QP8H09UJd_wEQDQZUDqDN6FlUJS7/view?usp=sharing)
 
-#### Submit
+#### Submit:
 ```
-usage: test.py  [-h] [--filter FILTER] 
+usage: test_submit.py  [-h] [--filter FILTER] 
                 [--decoder_kernel DECODER_KERNEL]
                 [--triple_pass_filter TRIPLE_PASS_FILTER]
                 [--kernel KERNEL] [--encoder_kernel ENCODER_KERNEL] 
