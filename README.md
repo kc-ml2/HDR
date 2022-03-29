@@ -53,9 +53,9 @@ by [Tu Vo](https://tuvovan.github.io)
     ```
 
 ### Calculate FLOPS and run-time
-    ```
-    python calculate_flops.py
-    ```
+```
+python calculate_flops.py
+```
 ## Usage
 ### Training
 ```
